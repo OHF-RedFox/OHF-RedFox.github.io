@@ -2,7 +2,8 @@
   background-color: #070721;
   color: #f0f0fc;
   font-family: "Courier New", "Courier", monospace;
-  text-align: center;}
+  text-align: center;
+  max-width: 800px;}
 
 head {
   font-size: 400%;}
