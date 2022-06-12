@@ -2,10 +2,10 @@
 <html>
   <head>
     <title>SOLOMON - BLOG</title>
+    <link href="../main.css" type="text/css" rel="stylesheet" />
   </head>
   <body>
-    <h1>SOLOMON V.0</H1>
-    <hr />
+    <h1><img src="../img/header-1.png"></h1>
     <h2>Blog - Coding</h2>
     <p>
       <strong>Book Review - "The Art of Clean Code" by Christian Mayer</strong>
