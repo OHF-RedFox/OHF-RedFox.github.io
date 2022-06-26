@@ -2,15 +2,28 @@
   background-color: black;
   color: white;
   font-family: "Arial", "Helvetica", sans-serif;
+  line-height: 10px;
   max-width: 800px;
   text-align: center;
 }
 
 .header {
-  line-height: 10px;
   border-bottom: 2px solid white;
-  width: 50%;
-  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+button {
+  border: 2px solid white;
+  background-color: transparent;
+  display: inline-block;
+  font-size: 18px;
+  margin-bottom: 20px;
+  height: 55px;
+  width: 200px;
+}
+
+a {
+  text-decoration: none;
 }
 
 h1 {
@@ -23,26 +36,5 @@ h2 {
 
 p {
   font-size: 16px;
+  line-height: 12 px;
 }
-
-/* html {
-  background-color: #070721;
-  color: #f0f0fc;
-  font-family: "Courier New", "Courier", monospace;
-  max-width: 800px;
-  text-align: center;
-  margin: 0 auto;
-}
-
-head {
-  font-size: 400%;
-}
-
-body {
-  font-size: 200%;
-}
-
-.blog {
-  text-align: left;
-}
-*/
