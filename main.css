@@ -4,16 +4,21 @@
   font-family: "Arial", "Helvetica", sans-serif;
   max-width: 800px;
   text-align: center;
-  margin: 0 auto;
+}
 
+.header {
+  line-height: 10px;
+  border-bottom: 2px solid white;
+  width: 50%;
+  margin: 0 auto;
 }
 
 h1 {
-  font-size: 400%;
+  font-size: 30px;
 }
 
 h2 {
-  font-size: 200%;
+  font-size: 18px;
 }
 
 p {
