@@ -1,4 +1,26 @@
-html {
+* {
+  background-color: black;
+  color: white;
+  font-family: "Arial", "Helvetica", sans-serif;
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+h1 {
+  font-size: 400%;
+}
+
+h2 {
+  font-size: 200%;
+}
+
+p {
+  font-size: 16px;
+}
+
+/* html {
   background-color: #070721;
   color: #f0f0fc;
   font-family: "Courier New", "Courier", monospace;
@@ -18,3 +40,4 @@ body {
 .blog {
   text-align: left;
 }
+*/
