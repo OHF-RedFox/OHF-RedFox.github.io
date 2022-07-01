@@ -26,10 +26,9 @@ button {
   display: inline-block;
   font-size: 36px;
   margin-bottom: 40px;
-  max-height: 400px;
   min-height: 150px;
   padding: 30px;
-  width: 100%;}
+  width: 75%;}
 
 div {
   display: flex auto;
