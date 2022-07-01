@@ -12,6 +12,11 @@ html {
   width: 90%;}
 
 /* Class Selectors */
+.chapter {
+  padding-bottom: 30px;
+  padding-top: 15px;
+}
+
 .header {
   border-bottom: 2px solid white;
   margin-bottom: 20px;}
@@ -47,8 +52,14 @@ h2 {
   font-style: italic;}
 
 h3 {
-  font-size: 18px;
+  font-size: 24px;
   text-decoration: underline;}
+
+h4 {
+  font-size: 18px;
+  font-style: italic;
+  text-align: center;
+}
 
 p, li {
   font-size: 16px;
