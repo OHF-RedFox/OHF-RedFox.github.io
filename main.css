@@ -39,10 +39,11 @@ a {
 
 /* Basic Text Formatting */
 h1 {
-  font-size: 48px;}
+  font-size: 72px;
+  line-height: 40px;}
 
 h2 {
-  font-size: 24px;
+  font-size: 36px;
   font-style: italic;}
 
 h3 {
@@ -54,8 +55,8 @@ p, li {
   line-height: 24px;
   margin: 0 auto;
   margin-bottom: 16px;
-  max-width: 600px;
-  text-align: justify;}
+  text-align: justify;
+  width: 100%;}
 
 li {
   margin-bottom: 8px;
