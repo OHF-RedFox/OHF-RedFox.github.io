@@ -15,11 +15,14 @@ html {
 .chapter {
   padding-bottom: 30px;
   padding-top: 15px;
+  margin: 0 auto;
+  width: 85%;
 }
 
 .header {
   border-bottom: 2px solid white;
-  margin-bottom: 20px;}
+  margin-bottom: 60px;
+  width: 100%;}
 
 /* Special Formatting */
 button {
@@ -29,7 +32,7 @@ button {
   border-right: transparent;
   background-color: black;
   display: inline-block;
-  font-size: 36px;
+  font-size: 48px;
   margin-bottom: 40px;
   min-height: 150px;
   padding: 30px;
@@ -44,26 +47,26 @@ a {
 
 /* Basic Text Formatting */
 h1 {
-  font-size: 72px;
+  font-size: 84px;
   line-height: 40px;}
 
 h2 {
-  font-size: 36px;
+  font-size: 48px;
   font-style: italic;}
 
 h3 {
-  font-size: 24px;
+  font-size: 36px;
   text-decoration: underline;}
 
 h4 {
-  font-size: 18px;
+  font-size: 24px;
   font-style: italic;
   text-align: center;
 }
 
 p, li {
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 24px;
+  line-height: 36px;
   margin: 0 auto;
   margin-bottom: 16px;
   text-align: justify;
