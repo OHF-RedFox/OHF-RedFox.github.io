@@ -1,6 +1,6 @@
 /* Universal Style Default */
 * {
-  background-color: black;
+  background-color: #00001a;
   font-family: "Courier New", "Courier", Monospace;
   color: white;}
 
@@ -30,7 +30,7 @@ button {
   border-left: 4px solid white;
   border-top: transparent;
   border-right: transparent;
-  background-color: black;
+  background-color: #00001a;
   display: inline-block;
   font-size: 48px;
   margin-bottom: 40px;
