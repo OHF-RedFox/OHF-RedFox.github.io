@@ -1,35 +1,83 @@
 /* Universal Defaults */
-* {}
+* {
+    background-color: #00001a;
+    font-family: monospace;
+    color: white;
+}
 
-html {}
+html {
+    line-height: 10px;
+    margin: 0 auto;
+    text-align: center;
+    width: 90%;
+}
 
 
 /* Class Selectors */
-.header {}
+.header {
+    border-bottom: 4px solid white;
+    line-height: 36px;
+    margin-bottom: 72px;
+    text-align: center;
+}
 
-.subject {}
+.subject {
+    margin-bottom: 60px;
+    text-decoration: underline;
+}
 
-.topic {}
+.topic {
+    margin-bottom: 36px;
+}
 
-.content {}
+.content {
+    margin: 0 auto;
+    margin-bottom: 60px;
+    width: 95%;
+}
 
 
 /* "Object" Selectors */
-button {}
+button {
+    border-bottom: 2px solid white;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    background-color: #00001a;
+    display: inline-block;
+    margin-bottom: 48px;
+    min-height: 100px;
+    width: 80%;
+}
 
-div {}
+div {
+    display: flex auto;
+}
 
 
 /* Text Formatting */
-a {}
+a {
+    text-decoration: none;
+}
 
-h1,h2,h3,h4 {}
+h1 {
+    font-size: 72px;
+    font-weight: bold;
+}
 
-h1 {}
+a,h2,h3 {
+    font-size:36px;
+}
 
-h2,h3 {}
+h4,p {
+    font-size: 24px;
+}
 
-h4,p {}
+h4 {
+    font-weight: bold;
+}
 
-p {}
+p {
+    text-align: justify;
+}
 
